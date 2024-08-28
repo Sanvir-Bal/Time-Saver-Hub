@@ -4,8 +4,11 @@ A Collection of Self-Developed Several Time Saving Applications.
 ![Homepage](https://github.com/user-attachments/assets/d934397f-edd1-4916-b1e0-fa8d18b0cac8)
 
 **YouTube Summarizer**
-Don't have time to watch a video? Post the link and get a detailed summary in seconds!
-![YouTube Summarizer](https://github.com/user-attachments/assets/08066c16-d730-4267-b011-8c12b20d8a8e)
+Don't have time to watch a video? Post the link.
+![YouTube Summarizer](https://github.com/user-attachments/assets/38f8c04e-2cff-48d7-b201-ff4d51b183da)
+
+Get a detailed summary in seconds!
+![YouTube Summary](https://github.com/user-attachments/assets/908c7293-b4a9-4a1e-a365-9528b834c3c2)
 
 **PDF Chat**
 Save time scrolling through PDFs! Upload PDFs then ask questions and get the answer based on the information in them.
