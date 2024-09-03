@@ -1,6 +1,11 @@
 # Time Saver Hub
 
-A Collection of Self-Developed Several Time Saving Applications developed using Streamlit, LangChain, Python, and Google Gemini Pro.
+A Collection of Self-Developed Several Time Saving Applications. 
+Developed using:
+* Streamlit
+* LangChain
+* Python
+* Google Gemini Pro.
 
 **Homepage**
 ![Homepage](https://github.com/user-attachments/assets/d934397f-edd1-4916-b1e0-fa8d18b0cac8)
