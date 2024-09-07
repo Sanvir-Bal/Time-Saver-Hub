@@ -7,7 +7,7 @@ Developed using:
 * Streamlit
 * LangChain
 * Python
-* Google Gemini Pro.
+* Google Gemini Pro
 
 ## YouTube Summarizer
 ### Don't have time to watch a video? Post the link.
